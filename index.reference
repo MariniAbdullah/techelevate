@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is my first website.</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+    <main>
+      <aside>
+        <p>This is for nav links.</p>
+      </aside>
+      <section>
+        <p>This is the content area.</p>
+      </section>
+    </main>
+    <footer>
+      <p>This is footer.</p>
+    </footer>
+  </body>
+</html>
+    <h1>This is a H1 heading</h1>
+    <h2>This is a H2 heading</h2>
+    <h3>This is a H3 heading</h3>
+    <h4>This is a H4 heading</h4>
+    <h5>This is a H5 heading</h5>
+    <h6>This is a H6 heading</h6>
+
+    <p style= "color:purple">This is a paragraph</p›
+    <p style="color: purple; background-color: blue; font-size: 50px; padding-top: 30px;">This is a another paragraph</p>
+
+    <a href="http://elevateacademy.my">Elevate Academy</a>
+    <br>
+    <img src="Felis_catus-cat_on_snow.jpg" alt="Elevate Academy" width="500"height="128">
+
+    <p>Elevate team:</p>
+    <ul>
+      <li>zul</li>
+      <li>Orson</li>
+      <li>Awang</li>
+      <li>Jazswuin</li>
+    </ul>
+
+    <ol>
+      <li>Phd in Science, Technology & Policy Studies</li>
+      <li>MSc in Software Engineering</li>
+      <li>Sijil Pelajaran Malaysia</li>
+      <li>LLB Law with Politics</li>
+
+      <p>To force<br> line breaks<br> in a text, <br> use the br<br> element.</p>
+
+      <p>This is a paragraph.
+      <p>This is a another paragraph.
+    </ol>
+
+    <h2 id="mycities">My favourite cities</h2>
+    <h2 class="dity">Tallinn</h2>
+    <p>Tallinn is the capital city of Estonia</p>
+
+    <h2 class="city">Madrid</h2>
+    <p>Madrid is the capital city of Spain</p>
+
+    <h2 class="city">Sarajevo</h2>
+    <p>Sarajevo is the capital city of Bosnia & Herzegovina</p>
+
+
+
+  </body>
+</html>

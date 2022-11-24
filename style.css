@@ -1,0 +1,61 @@
+header {
+  background-color: pink;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: magenta;
+}
+
+aside{
+  background-color: lightgreen;
+  float:left;
+  width: 30%;
+  padding: 20px;
+  height: 100vh;
+  }
+
+section {
+  background-image: linear-gradient(to right, red, pink);
+  padding: 20px;
+  float: left;
+  width: 70%;
+  height: 100vh;
+
+}
+
+*{ box-sizing: border-box;}
+
+footer {
+  background-color: papayawhip;
+  padding: 10px;
+  text-align: center;
+  color: turquoise;
+}
+
+
+@media (max-width:600px) {
+  aside,section{
+    width:100%;
+    height:auto;
+    
+  }
+}
+
+
+p {
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  font-weight: bold;
+  font-style: italic;
+}
+
+a { text-decoration: none;}
+
+#mycities {
+  color: pink;
+}
+
+.city {
+  color: red;
+}
